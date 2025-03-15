@@ -1,0 +1,1 @@
+# Predicting-Ford-Stock-Data-using-linear-regression
